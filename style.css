@@ -36,12 +36,12 @@ li a:hover {
     display: block;
 }
 
-[class*="col-"] {
+[class*="col-6"] {
     float: left;
     padding: 15px;
 }
 
-[class*="col-"] {
+[class*="col-m-6"] {
     width: 100%;
 }
 
